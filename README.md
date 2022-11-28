@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Giribabu Sayineni
-- 👀 I’m interested in learning and contributing towards, Application Integration, APIs, Microservices Development and Governance. Also Cloud and Digital Transfomation Solutions
+- 👋 Hi, I’m Giribabu Sayineni. I have over 20 years of IT experience majorly on providing Digital and Cloud Transformation Solutions.
+- 👀 I’m interested in learning and contributing towards, Application Integration, APIs, Microservices Development and Governance. Also Cloud and Digital Transfomation Solutions..
 - 🌱 I’m currently learning Python3, AWS DevOps...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on TIBCO, MuleSoft, Kafka and AWS Cloud Solutions
 - 📫 I am reachable via giribabu.sayineni@gmail.com
 
 <!---
